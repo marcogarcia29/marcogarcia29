@@ -18,6 +18,12 @@
 
 <h1>Contato</h1>
 <a href="https://www.linkedin.com/in/marco-garcia-3a660a182/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<hr>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcogarcia29&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcogarcia29&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div style="text-align:right">
+  <img src="https://media.giphy.com/media/RJN6Chx6VykBSyImJT/giphy.gif" width="150px" height="150p" >
+</div>
 <!--
 **marcogarcia29/marcogarcia29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
