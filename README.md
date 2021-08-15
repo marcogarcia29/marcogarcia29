@@ -13,7 +13,7 @@
 </div>
 <h1>Estudando</h1>
 <div>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 <!--
 **marcogarcia29/marcogarcia29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
