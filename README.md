@@ -15,6 +15,9 @@
 <div>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
+
+<h1>Contato</h1>
+<a href="https://www.linkedin.com/in/marco-garcia-3a660a182/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!--
 **marcogarcia29/marcogarcia29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
