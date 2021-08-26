@@ -25,6 +25,6 @@
 
 <img height='180em' src="https://github-readme-stats.vercel.app/api?username=marcogarcia29&show_icons=true&theme=dracula">
 <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=marcogarcia29&layout=compact&theme=dracula'>
-<div style="text-align:right">
+<div style="text-align:center">
   <img src="https://media.giphy.com/media/116n6kcHaFbw3e/giphy.gif" width="150px" height="150p" >
 </div>
