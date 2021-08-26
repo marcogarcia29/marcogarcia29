@@ -14,7 +14,7 @@
 <h1>Estudando</h1>
 <div>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/VueJs-20232A?style=for-the-badge&logo=vuejs&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 </div>
 
 <h1>Contato</h1>
