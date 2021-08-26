@@ -23,7 +23,7 @@
 ---
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcogarcia29&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcogarcia29&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=marcogarcia29&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcogarcia29&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <div style="text-align:right">
   <img src="https://media.giphy.com/media/116n6kcHaFbw3e/giphy.gif" width="150px" height="150p" >
 </div>
