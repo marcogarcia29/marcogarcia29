@@ -1,6 +1,6 @@
 <h1>Sobre</h1>
 
-<ul><li>Desenvolvedor Web front-end e curioso por DS</li></ul>
+<ul><li>Desenvolvedor</li></ul>
 
 <h1>Skills</h1>
 <div>
