@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
 </div>
 
-<h1>Contato</h1>
+<h1>Contact</h1>
 <a href="https://www.linkedin.com/in/marco-garcia-3a660a182/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ---
