@@ -1,6 +1,6 @@
 <h1>About</h1>
 
-<ul><li>I'm currently working with DS and ML </li></ul>
+<ul><li>I'm currently working as Data Engineer</li></ul>
 
 <h1>Skills</h1>
 <div>
